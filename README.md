@@ -1,15 +1,18 @@
-# Carbon_Emission_Predictor
-Project developed for Hack_Odisha Using Web Dev and Machine Learning
-Technologies used:
-HTML
-CSS
-Javascript
-Bootstrap
-ML regression models
-Flask
-Matplotlib
-Some images:
+# Carbon Emission Predictor
 
+Project developed for Hack_Odisha Using Web Dev and Machine Learning
+
+## Technologies Used
+
+- HTML
+- CSS
+- Javascript
+- Bootstrap
+- ML regression models
+- Flask
+- Matplotlib
+
+## Some Images
 
 ![img3](https://github.com/user-attachments/assets/16c0c6b4-69be-4e47-a467-1fbfcb068103)
 ![img2](https://github.com/user-attachments/assets/4881cc3a-614b-4820-9613-c10f34d7fd52)
